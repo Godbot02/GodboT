@@ -1,4 +1,4 @@
 # GodboT
 my first repository
 <br/>
-publisher : Anhijit Khune
+publisher : Abhijit Khune
